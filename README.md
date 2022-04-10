@@ -3,7 +3,7 @@
   Navid Hosseini
 </p>
   
-I'm Navid, a Programmer
+I'm Navid, a Developer
 
 <h3 align="center">Languages I've worked with</h3>
 <p align="center">
