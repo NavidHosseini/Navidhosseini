@@ -3,7 +3,7 @@
   Navid Hosseini
 </p>
   
-I am a developer of Android and iOS software, I have such experience working with augmented reality and photo recognition for mobile applications, I am interested in blockchain and building decentralized applications, and I have some experience with Rust language and smart contract.
+I am a developer of Android and IOS software, I have such experience working with augmented reality and photo recognition for mobile applications, I am interested in blockchain and building decentralized applications, and I have some experience with Rust language and smart contract.
 
 <h3 align="center">Languages and framework I've worked with</h3>
 <p align="center">
