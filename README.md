@@ -5,7 +5,7 @@
   
 I am a developer of Android and iOS software, I have such experience working with augmented reality and photo recognition for mobile applications, I am interested in blockchain and building decentralized applications, and I have some experience with Rust language and smart contract.
 
-<h3 align="center">Languages I've worked with</h3>
+<h3 align="center">Languages and framework I've worked with</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JS">
